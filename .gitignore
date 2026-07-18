@@ -2,3 +2,6 @@
 /resources/
 .hugo_build.lock
 .DS_Store
+prompt.md
+extra_prompt.txt
+titles_recent.txt
