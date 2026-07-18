@@ -3,6 +3,7 @@ title = "SleepCare"
 theme = "echochip-chirpy-hugo"
 locale = "ko-KR"
 enableRobotsTXT = true
+timeZone = "Asia/Seoul"
 
 [taxonomies]
 category = "categories"
