@@ -1,0 +1,100 @@
+{{ $path := .RelPermalink }}
+{{ $homeURL := site.Home.RelPermalink }}
+{{ $categoriesURL := "categories/" | relURL }}
+{{ with site.GetPage "/categories" }}{{ $categoriesURL = .RelPermalink }}{{ end }}
+{{ $tagsURL := "tags/" | relURL }}
+{{ with site.GetPage "/tags" }}{{ $tagsURL = .RelPermalink }}{{ end }}
+{{ $archivesURL := "archives/" | relURL }}
+{{ with site.GetPage "/archives" }}{{ $archivesURL = .RelPermalink }}{{ end }}
+{{ $aboutURL := "about/" | relURL }}
+{{ with site.GetPage "/about" }}{{ $aboutURL = .RelPermalink }}{{ end }}
+{{ $rssURL := "index.xml" | relURL }}
+{{ with .OutputFormats.Get "RSS" }}{{ $rssURL = .Permalink }}{{ end }}
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end z-2">
+  <header class="profile-wrapper">
+    <a href="{{ $homeURL }}" id="avatar" class="rounded-circle" aria-label="{{ site.Title }}">
+      {{ with site.Params.avatar }}
+        <img src="{{ . | strings.TrimPrefix "/" | relURL }}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+      {{ end }}
+    </a>
+    <a class="site-title d-block" href="{{ $homeURL }}">{{ site.Title }}</a>
+    <p class="site-subtitle mb-0">{{ site.Params.tagline | safeHTML }}</p>
+  </header>
+
+  <nav class="flex-column flex-grow-1 w-100 ps-0" aria-label="Primary navigation">
+    <ul class="nav">
+      <li class="nav-item{{ if .IsHome }} active{{ end }}">
+        <a class="nav-link" href="{{ $homeURL }}">
+          <i class="fa-fw fas fa-home"></i>
+          <span>홈</span>
+        </a>
+      </li>
+
+      <li class="nav-item{{ if hasPrefix $path "/categories/" }} active{{ end }}">
+        <a class="nav-link" href="{{ $categoriesURL }}">
+          <i class="fa-fw fas fa-stream"></i>
+          <span>카테고리</span>
+        </a>
+      </li>
+    {{ partial "sidebar-categories.html" . }}
+
+      <li class="nav-item{{ if hasPrefix $path "/tags/" }} active{{ end }}">
+        <a class="nav-link" href="{{ $tagsURL }}">
+          <i class="fa-fw fas fa-tags"></i>
+          <span>태그</span>
+        </a>
+      </li>
+      {{ partial "sidebar-tags.html" . }}
+
+      <li class="nav-item{{ if hasPrefix $path "/archives/" }} active{{ end }}">
+        <a class="nav-link" href="{{ $archivesURL }}">
+          <i class="fa-fw fas fa-archive"></i>
+          <span>아카이브</span>
+        </a>
+      </li>
+
+      <li class="nav-item{{ if hasPrefix $path "/about/" }} active{{ end }}">
+        <a class="nav-link" href="{{ $aboutURL }}">
+          <i class="fa-fw fas fa-info-circle"></i>
+          <span>정보</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100" role="group" aria-label="Site links">
+    <div class="btn-group dropup">
+      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
+        <i class="fa-regular fa-sun" data-theme-mode="light"></i>
+        <i class="fa-regular fa-moon" data-theme-mode="dark"></i>
+        <i class="fa-solid fa-display" data-theme-mode="system"></i>
+      </button>
+    </div>
+    <span class="icon-border"></span>
+    {{ $social := site.Params.social | default dict }}
+    {{ with $social.github }}
+      <a href="{{ . }}" aria-label="github" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-github"></i>
+      </a>
+    {{ end }}
+    {{ with $social.twitter }}
+      <a href="{{ . }}" aria-label="twitter" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-x-twitter"></i>
+      </a>
+    {{ end }}
+    {{ with $social.threads }}
+      <a href="{{ . }}" aria-label="threads" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-threads"></i>
+      </a>
+    {{ end }}
+    {{ with $social.email }}
+      {{ $emailHref := cond (hasPrefix . "mailto:") . (printf "mailto:%s" .) }}
+      <a href="{{ $emailHref }}" aria-label="email">
+        <i class="fas fa-envelope"></i>
+      </a>
+    {{ end }}
+    <a href="{{ $rssURL }}" aria-label="rss">
+      <i class="fas fa-rss"></i>
+    </a>
+  </div>
+</aside>

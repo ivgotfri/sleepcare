@@ -1,0 +1,16 @@
+{{ if or .PrevInSection .NextInSection }}
+  <nav id="post-neighbor-list" class="post-neighbor-list mb-4" aria-label="Post Navigation">
+    {{ with .PrevInSection }}
+      <section class="post-neighbor" aria-label="이전 글">
+        <div class="post-nav-label">이전 글</div>
+        {{ partial "post-card.html" . }}
+      </section>
+    {{ end }}
+    {{ with .NextInSection }}
+      <section class="post-neighbor" aria-label="다음 글">
+        <div class="post-nav-label">다음 글</div>
+        {{ partial "post-card.html" . }}
+      </section>
+    {{ end }}
+  </nav>
+{{ end }}

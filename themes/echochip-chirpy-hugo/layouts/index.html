@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $paginator := .Paginate $posts }}
+
+  <section id="post-list" class="flex-grow-1 px-xl-1" aria-label="Posts">
+    {{ range $paginator.Pages }}
+      {{ partial "post-card.html" . }}
+    {{ end }}
+  </section>
+
+  {{ partial "pagination.html" $paginator }}
+{{ end }}

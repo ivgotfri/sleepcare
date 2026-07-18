@@ -1,0 +1,30 @@
+<aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted{{ if and .IsPage .TableOfContents }} has-toc{{ else }} no-toc{{ end }}">
+  <div class="access">
+    {{ if and .IsPage .TableOfContents }}
+      <section id="toc-wrapper" class="position-sticky ps-0 pe-4 pb-4">
+        <h2 class="panel-heading ps-3 pb-2 mb-0">목차</h2>
+        <div id="toc">{{ replace .TableOfContents "<nav id=\"TableOfContents\">" "<nav id=\"TableOfContents\" aria-label=\"Table of contents\">" | safeHTML }}</div>
+      </section>
+    {{ end }}
+
+    <section id="access-lastmod">
+      <h2 class="panel-heading">최근 업데이트</h2>
+      <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+        {{ range first 5 (where site.RegularPages "Section" "posts") }}
+          <li class="text-truncate lh-lg">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="panel-heading">인기 태그</h2>
+      <div class="d-flex flex-wrap mt-3 mb-1 me-3">
+        {{ range first 10 site.Taxonomies.tags.ByCount }}
+          <a class="post-tag btn btn-outline-primary" href="{{ .Page.RelPermalink }}">{{ .Term }}</a>
+        {{ end }}
+      </div>
+    </section>
+  </div>
+</aside>

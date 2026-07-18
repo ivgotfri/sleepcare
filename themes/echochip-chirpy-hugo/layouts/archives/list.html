@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div id="archives" class="pl-xl-3">
+    {{ range (where site.RegularPages "Section" "posts").GroupByDate "2006" }}
+      <time class="year lead d-block">{{ .Key }}</time>
+      <ul class="list-unstyled">
+        {{ range .Pages }}
+          <li>
+            <span class="date day" data-df="DD">{{ .Date.Format "02" }}</span>
+            <span class="date month small text-muted ms-1" data-df="/ MM">{{ .Date.Format "/ 01" }}</span>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+{{ end }}

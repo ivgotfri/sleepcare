@@ -1,0 +1,47 @@
+{{ define "main" }}
+  {{ $pages := .Pages }}
+  {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+    {{ $pages = .Pages.ByDate.Reverse }}
+  {{ end }}
+  {{ $paginator := .Paginate $pages }}
+
+  {{ if and (eq .Kind "term") (eq .Data.Singular "tag") }}
+    <div id="page-tag" class="px-1">
+      <h1 class="ps-lg-2">
+        <i class="fa fa-tag fa-fw text-muted"></i>
+        {{ .Title }}
+        <span class="lead text-muted ps-2">{{ len $pages }}</span>
+      </h1>
+  {{ else if and (eq .Kind "term") (eq .Data.Singular "category") }}
+    <div id="page-category" class="px-1">
+      <h1 class="ps-lg-2">
+        <i class="far fa-folder-open fa-fw text-muted"></i>
+        {{ .Title }}
+        <span class="lead text-muted ps-2">{{ len $pages }}</span>
+      </h1>
+  {{ else }}
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+  {{ end }}
+
+  {{ if and .Content (not (or (eq .Kind "taxonomy") (eq .Kind "term"))) }}
+    <article class="px-1" data-toc="false">
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </article>
+  {{ else }}
+    <section id="post-list" class="flex-grow-1 px-xl-1" aria-label="{{ .Title }}">
+      {{ range $paginator.Pages }}
+        {{ partial "post-card.html" . }}
+      {{ end }}
+    </section>
+
+    {{ partial "pagination.html" $paginator }}
+  {{ end }}
+
+  {{ if and (eq .Kind "term") (or (eq .Data.Singular "tag") (eq .Data.Singular "category")) }}
+    </div>
+  {{ end }}
+{{ end }}

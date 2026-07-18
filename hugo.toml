@@ -1,0 +1,23 @@
+baseURL = "https://sleepcare.inforcore.net/"
+title = "SleepCare"
+theme = "echochip-chirpy-hugo"
+locale = "ko-KR"
+enableRobotsTXT = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
+description = "매트리스, 베개, 이불 선택 기준부터 관리법까지 — 숙면을 위한 침구 정보"
+author = "SleepCare Editorial Team"
+tagline = "더 나은 잠을 위한 침구 가이드"
+favicon = "/favicon.ico"
+avatar = "/images/avatar.png"
+image = "/images/site-cover.jpg"
+
+[params.social]
+email = "libmeltd@gmail.com"
+
+[markup.goldmark.extensions]
+strikethrough = false

@@ -1,0 +1,11 @@
+name = "Echochip Chirpy Hugo"
+license = "MIT"
+licenselink = "https://github.com/gohugoio/hugo/blob/master/LICENSE"
+description = "A Hugo port of a category-first Chirpy-style blog theme."
+homepage = "https://example.com/"
+tags = ["blog", "responsive", "taxonomy", "minimal"]
+features = ["posts", "categories", "tags", "toc", "related posts"]
+min_version = "0.158.0"
+
+[author]
+  name = "echochip"

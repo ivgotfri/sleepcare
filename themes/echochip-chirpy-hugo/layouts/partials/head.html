@@ -1,0 +1,113 @@
+<head>
+  {{ $desc := .Description | default (.Summary | plainify) | default site.Params.description | default site.Title | plainify | truncate 160 }}
+  {{ $pageTitle := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
+  {{ $author := site.Params.author | default site.Title }}
+  {{ $lang := site.Language.Locale | default "ko-KR" }}
+  {{ $locale := replace $lang "-" "_" }}
+  {{ $image := "" }}
+  {{ with .Params.cover }}{{ with .image }}{{ $image = . }}{{ end }}{{ end }}
+  {{ if not $image }}{{ with .Params.image }}{{ $image = . }}{{ else }}{{ with site.Params.image }}{{ $image = . }}{{ end }}{{ end }}{{ end }}
+  {{ if $image }}{{ $image = ($image | absURL) }}{{ end }}
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+  <meta name="description" content="{{ $desc }}">
+  <meta name="author" content="{{ $author }}">
+  <title>{{ $pageTitle }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ with site.Params.favicon }}
+    <link rel="icon" href="{{ . | strings.TrimPrefix "/" | relURL }}">
+  {{ end }}
+  {{ with site.Params.adsensePublisherId }}
+    <meta name="google-adsense-account" content="ca-{{ . }}">
+  {{ end }}
+
+  <meta property="og:title" content="{{ cond .IsHome site.Title .Title }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:locale" content="{{ $locale }}">
+  {{ with $image }}<meta property="og:image" content="{{ . }}">{{ end }}
+  {{ if .IsPage }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+    <meta property="article:author" content="{{ $author }}">
+  {{ end }}
+  <meta name="twitter:card" content="{{ if $image }}summary_large_image{{ else }}summary{{ end }}">
+  <meta name="twitter:title" content="{{ cond .IsHome site.Title .Title }}">
+  <meta name="twitter:description" content="{{ $desc }}">
+  {{ with $image }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+
+  <script>
+    (() => {
+      try {
+        const theme = localStorage.getItem('theme');
+        if (theme === 'light' || theme === 'dark') {
+          document.documentElement.setAttribute('data-bs-theme', theme);
+          document.documentElement.setAttribute('data-theme-persisted', '');
+        }
+      } catch {}
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v=chirpy-refine-15">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&amp;family=Source+Sans+Pro:wght@400;600;700;900&amp;display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css">
+  <link rel="stylesheet" href="{{ "css/hugo-bridge.css" | relURL }}?v=chirpy-refine-19">
+  {{ if site.Params.pageviews }}
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  {{ end }}
+  {{ with site.Params.cloudflareAnalyticsToken }}
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{{ printf `{"token": "%s"}` . }}"></script>
+  {{ end }}
+  {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">
+  {{ end }}
+  {{ if .IsHome }}
+    {{ dict
+      "@context" "https://schema.org"
+      "@type" "WebSite"
+      "name" site.Title
+      "url" site.BaseURL
+      "description" $desc
+    | jsonify | safeJS | printf "<script type=\"application/ld+json\">%s</script>" | safeHTML }}
+  {{ else if .IsPage }}
+    {{ $schema := dict
+      "@context" "https://schema.org"
+      "@type" "BlogPosting"
+      "headline" .Title
+      "description" $desc
+      "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+      "author" (dict "@type" "Person" "name" $author)
+      "publisher" (dict "@type" "Organization" "name" site.Title)
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "url" .Permalink
+    }}
+    {{ if $image }}{{ $schema = merge $schema (dict "image" $image) }}{{ end }}
+    {{ $schema | jsonify | safeJS | printf "<script type=\"application/ld+json\">%s</script>" | safeHTML }}
+
+    {{ with .Params.faq }}
+      {{ $faqEntities := slice }}
+      {{ range . }}
+        {{ $faqEntities = $faqEntities | append (dict
+          "@type" "Question"
+          "name" .q
+          "acceptedAnswer" (dict "@type" "Answer" "text" .a)
+        ) }}
+      {{ end }}
+      {{ $faqSchema := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $faqEntities }}
+      {{ $faqSchema | jsonify | safeJS | printf "<script type=\"application/ld+json\">%s</script>" | safeHTML }}
+    {{ end }}
+  {{ end }}
+</head>

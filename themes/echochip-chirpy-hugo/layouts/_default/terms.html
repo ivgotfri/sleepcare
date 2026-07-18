@@ -1,0 +1,32 @@
+{{ define "main" }}
+  {{ if eq .Data.Plural "tags" }}
+    <div id="tags" class="d-flex flex-wrap mx-xl-2">
+      {{ range .Data.Terms.Alphabetical }}
+        <div>
+          <a class="tag" href="{{ .Page.RelPermalink }}">
+            {{ .Page.Title }}<span class="text-muted">{{ .Count }}</span>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  {{ else if eq .Data.Plural "categories" }}
+    {{ range .Data.Terms.Alphabetical }}
+      <div class="card categories">
+        <div class="card-header d-flex justify-content-between hide-border-bottom">
+          <span class="ms-2">
+            <i class="far fa-folder fa-fw"></i>
+            <a href="{{ .Page.RelPermalink }}" class="mx-2">{{ .Page.Title }}</a>
+            <span class="text-muted small font-weight-light">{{ .Count }}</span>
+          </span>
+          <span class="category-trigger hide-border-bottom disabled">
+            <i class="fas fa-fw fa-angle-right"></i>
+          </span>
+        </div>
+      </div>
+    {{ end }}
+  {{ else }}
+    <header class="list-header">
+      <h1>{{ .Title }}</h1>
+    </header>
+  {{ end }}
+{{ end }}

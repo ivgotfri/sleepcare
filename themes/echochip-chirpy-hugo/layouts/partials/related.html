@@ -1,0 +1,15 @@
+{{ $related := site.RegularPages.Related . | first 3 }}
+{{ if eq (len $related) 0 }}
+  {{ $related = first 3 (where (where site.RegularPages "Section" "posts") "RelPermalink" "ne" .RelPermalink) }}
+{{ end }}
+
+{{ if gt (len $related) 0 }}
+  <aside id="related-posts">
+    <h3 class="mb-4" id="related-label">관련된 글</h3>
+    <nav id="related-post-list" class="related-post-list mb-4" aria-label="Related posts">
+      {{ range $related }}
+        {{ partial "post-card.html" . }}
+      {{ end }}
+    </nav>
+  </aside>
+{{ end }}

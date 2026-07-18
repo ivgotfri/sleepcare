@@ -1,0 +1,11 @@
+<div id="search-result-wrapper" class="d-flex justify-content-center d-none">
+  <div class="col-11 content">
+    <div id="search-hints">
+      <h4>인기 태그</h4>
+      {{ range first 10 site.Taxonomies.tags.ByCount }}
+        <a class="post-tag" href="{{ .Page.RelPermalink }}">{{ .Term }}</a>
+      {{ end }}
+    </div>
+    <div id="search-results" class="d-flex flex-wrap justify-content-center text-muted mt-3"></div>
+  </div>
+</div>

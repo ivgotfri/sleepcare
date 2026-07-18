@@ -1,0 +1,120 @@
+{{ define "main" }}
+  <article class="px-1" data-toc="{{ .Params.toc | default true }}">
+    <header>
+      <h1 data-toc-skip>{{ .Title }}</h1>
+
+      <div class="post-meta text-muted">
+        <span>
+          게시
+          <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" data-df="YYYY/MM/DD HH:mm">{{ .Date.Format "2006/01/02 15:04" }}</time>
+        </span>
+
+        <div class="d-flex justify-content-between">
+          <span>
+            By
+            <em>{{ site.Params.author | default site.Title }}</em>
+          </span>
+
+          <div>
+            <span class="readtime">
+              읽는 시간&nbsp;<em>{{ .ReadingTime }}분</em>
+            </span>
+            {{ if site.Params.pageviews }}
+              <span class="pageviews ms-2" id="busuanzi_container_page_pv" style="display:none">
+                조회&nbsp;<em id="busuanzi_value_page_pv"></em>회
+              </span>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    {{ with .Params.cover }}
+      {{ with .image }}
+        <div class="post-cover mb-3">
+          <img src="{{ . }}" alt="{{ $.Params.cover.alt | default $.Title }}" class="img-fluid rounded" loading="lazy">
+          {{ with $.Params.cover.caption }}
+            <p class="post-cover-caption text-muted small mt-1">{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+
+    {{ if .TableOfContents }}
+      <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
+        <span class="label text-truncate">{{ .Title }}</span>
+        <button type="button" class="toc-trigger btn me-1" aria-label="Open table of contents">
+          <i class="fa-solid fa-list-ul fa-fw"></i>
+        </button>
+      </div>
+
+      <button id="toc-solo-trigger" type="button" class="toc-trigger btn btn-outline-secondary btn-sm">
+        <span class="label ps-2 pe-1">목차</span>
+        <i class="fa-solid fa-angle-right fa-fw"></i>
+      </button>
+
+      <dialog id="toc-popup" aria-labelledby="toc-popup-title">
+        <div class="header d-flex align-items-center justify-content-between">
+          <strong id="toc-popup-title">{{ .Title }}</strong>
+          <button type="button" class="btn btn-link" data-toc-close aria-label="Close table of contents">
+            <i class="fa-solid fa-xmark fa-fw"></i>
+          </button>
+        </div>
+        <div class="toc-content">
+          {{ replace .TableOfContents "<nav id=\"TableOfContents\">" "<nav id=\"TableOfContentsMobile\" aria-label=\"Table of contents\">" | safeHTML }}
+        </div>
+      </dialog>
+    {{ end }}
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <div class="post-tail-wrapper text-muted">
+      <div class="d-flex justify-content-between align-items-center gap-3 mb-3">
+        {{ with .Params.categories }}
+          <div class="post-meta">
+            <i class="far fa-folder-open fa-fw me-1"></i>
+            {{ range $index, $category := . }}
+              {{ $categoryURL := printf "categories/%s/" ($category | urlize) | relURL }}
+              {{ with site.GetPage (printf "/categories/%s" $category) }}{{ $categoryURL = .RelPermalink }}{{ end }}
+              <a href="{{ $categoryURL }}">{{ $category }}</a>{{ if lt (add $index 1) (len $.Params.categories) }}, {{ end }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+
+      {{ with .Params.tags }}
+        <div class="post-tags">
+          <i class="fa fa-tags fa-fw me-1"></i>
+          {{ range . }}
+            {{ $tagURL := printf "tags/%s/" (. | urlize) | relURL }}
+            {{ with site.GetPage (printf "/tags/%s" .) }}{{ $tagURL = .RelPermalink }}{{ end }}
+            <a class="post-tag no-text-decoration" href="{{ $tagURL }}">{{ . }}</a>
+          {{ end }}
+        </div>
+      {{ end }}
+
+      <div class="post-tail-bottom d-flex justify-content-between align-items-center mt-5 pb-2">
+        <div class="license-wrapper">
+          <span>이 기사는 저작권자의</span>
+          <a href="https://creativecommons.org/licenses/by/4.0/" rel="license noopener" target="_blank">CC BY 4.0</a>
+          <span>라이선스를 따릅니다.</span>
+        </div>
+
+        {{ partial "post-sharing.html" . }}
+      </div>
+    </div>
+
+    {{ if eq .Section "posts" }}
+      {{ partial "giscus.html" . }}
+    {{ end }}
+  </article>
+{{ end }}
+
+{{ define "tail" }}
+  {{ if eq .Section "posts" }}
+    {{ partial "post-nav.html" . }}
+    {{ partial "related.html" . }}
+  {{ end }}
+{{ end }}

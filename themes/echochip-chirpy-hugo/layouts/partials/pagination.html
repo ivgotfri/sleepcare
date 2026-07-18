@@ -1,0 +1,98 @@
+{{ $paginator := . }}
+{{ if gt $paginator.TotalPages 1 }}
+  {{ $current := $paginator.PageNumber }}
+  {{ $total := $paginator.TotalPages }}
+  {{ $radius := 2 }}
+  {{ $left := sub $current $radius }}
+  {{ $right := add $current $radius }}
+
+  {{ if lt $left 1 }}
+    {{ $right = add $right (sub 1 $left) }}
+    {{ $left = 1 }}
+  {{ end }}
+
+  {{ if gt $right $total }}
+    {{ $left = sub $left (sub $right $total) }}
+    {{ $right = $total }}
+  {{ end }}
+
+  {{ if lt $left 1 }}
+    {{ $left = 1 }}
+  {{ end }}
+
+  <nav aria-label="Pagination">
+    <ul class="pagination">
+      <li class="page-item{{ if not $paginator.HasPrev }} disabled{{ end }}">
+        {{ if $paginator.HasPrev }}
+          <a class="page-link" href="{{ $paginator.First.URL }}" aria-label="First page">처음</a>
+        {{ else }}
+          <span class="page-link" aria-disabled="true">처음</span>
+        {{ end }}
+      </li>
+
+      <li class="page-item{{ if not $paginator.HasPrev }} disabled{{ end }}">
+        {{ with $paginator.Prev }}
+          <a class="page-link" href="{{ .URL }}" aria-label="Previous page">이전</a>
+        {{ else }}
+          <span class="page-link" aria-disabled="true">이전</span>
+        {{ end }}
+      </li>
+
+      {{ if gt $left 1 }}
+        {{ with index $paginator.Pagers 0 }}
+          <li class="page-item">
+            <a class="page-link" href="{{ .URL }}" aria-label="Page {{ .PageNumber }}">{{ .PageNumber }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+
+      {{ if gt $left 2 }}
+        <li class="page-item disabled">
+          <span class="page-link page-ellipsis" aria-hidden="true">&hellip;</span>
+        </li>
+      {{ end }}
+
+      {{ range $paginator.Pagers }}
+        {{ if and (ge .PageNumber $left) (le .PageNumber $right) }}
+          <li class="page-item{{ if eq .PageNumber $current }} active{{ end }}">
+            {{ if eq .PageNumber $current }}
+              <span class="page-link" aria-current="page">{{ .PageNumber }}</span>
+            {{ else }}
+              <a class="page-link" href="{{ .URL }}" aria-label="Page {{ .PageNumber }}">{{ .PageNumber }}</a>
+            {{ end }}
+          </li>
+        {{ end }}
+      {{ end }}
+
+      {{ if lt $right (sub $total 1) }}
+        <li class="page-item disabled">
+          <span class="page-link page-ellipsis" aria-hidden="true">&hellip;</span>
+        </li>
+      {{ end }}
+
+      {{ if lt $right $total }}
+        {{ with index $paginator.Pagers (sub $total 1) }}
+          <li class="page-item">
+            <a class="page-link" href="{{ .URL }}" aria-label="Page {{ .PageNumber }}">{{ .PageNumber }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+
+      <li class="page-item{{ if not $paginator.HasNext }} disabled{{ end }}">
+        {{ with $paginator.Next }}
+          <a class="page-link" href="{{ .URL }}" aria-label="Next page">다음</a>
+        {{ else }}
+          <span class="page-link" aria-disabled="true">다음</span>
+        {{ end }}
+      </li>
+
+      <li class="page-item{{ if not $paginator.HasNext }} disabled{{ end }}">
+        {{ if $paginator.HasNext }}
+          <a class="page-link" href="{{ $paginator.Last.URL }}" aria-label="Last page">마지막</a>
+        {{ else }}
+          <span class="page-link" aria-disabled="true">마지막</span>
+        {{ end }}
+      </li>
+    </ul>
+  </nav>
+{{ end }}

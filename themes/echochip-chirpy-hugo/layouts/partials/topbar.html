@@ -1,0 +1,62 @@
+<header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
+  {{ $homeURL := site.Home.RelPermalink }}
+  {{ $categoriesURL := "categories/" | relURL }}
+  {{ with site.GetPage "/categories" }}{{ $categoriesURL = .RelPermalink }}{{ end }}
+  {{ $tagsURL := "tags/" | relURL }}
+  {{ with site.GetPage "/tags" }}{{ $tagsURL = .RelPermalink }}{{ end }}
+  <div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100">
+    <nav id="breadcrumb" aria-label="Breadcrumb">
+      {{ if .IsHome }}
+        <span>홈</span>
+      {{ else }}
+        <span><a href="{{ $homeURL }}">홈</a></span>
+
+        {{ if and (eq .Kind "term") (eq .Data.Singular "category") }}
+          <span><a href="{{ $categoriesURL }}">카테고리</a></span>
+          <span>{{ .Title }}</span>
+        {{ else if and (eq .Kind "term") (eq .Data.Singular "tag") }}
+          <span><a href="{{ $tagsURL }}">태그</a></span>
+          <span>{{ .Title }}</span>
+        {{ else if eq .Kind "taxonomy" }}
+          {{ if eq .Data.Plural "categories" }}
+            <span>카테고리</span>
+          {{ else if eq .Data.Plural "tags" }}
+            <span>태그</span>
+          {{ else }}
+            <span>{{ .Title }}</span>
+          {{ end }}
+        {{ else if hasPrefix .RelPermalink "/archives/" }}
+          <span>아카이브</span>
+        {{ else if and (eq .Section "posts") .Params.categories }}
+          {{ $primaryCategory := index .Params.categories 0 }}
+          {{ $primaryCategoryURL := printf "categories/%s/" ($primaryCategory | urlize) | relURL }}
+          {{ with site.GetPage (printf "/categories/%s" $primaryCategory) }}{{ $primaryCategoryURL = .RelPermalink }}{{ end }}
+          <span>
+            <a href="{{ $primaryCategoryURL }}">{{ $primaryCategory }}</a>
+          </span>
+          <span>{{ .Title }}</span>
+        {{ else }}
+          <span>{{ .Title }}</span>
+        {{ end }}
+      {{ end }}
+    </nav>
+
+    <button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar">
+      <i class="fas fa-bars fa-fw"></i>
+    </button>
+
+    <div id="topbar-title">
+      {{ if .IsHome }}{{ site.Title }}{{ else if eq .Section "posts" }}포스트{{ else }}{{ .Title }}{{ end }}
+    </div>
+
+    <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
+      <i class="fas fa-search fa-fw"></i>
+    </button>
+
+    <search id="search" class="align-items-center ms-3 ms-lg-0">
+      <i class="fas fa-search fa-fw"></i>
+      <input class="form-control" id="search-input" type="search" aria-label="search" autocomplete="off" placeholder="검색...">
+    </search>
+    <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">취소</button>
+  </div>
+</header>

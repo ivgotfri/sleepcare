@@ -1,0 +1,15 @@
+{{ $categories := site.Taxonomies.categories.Alphabetical }}
+{{ if gt (len $categories) 0 }}
+  <li class="sidebar-taxonomy nested-taxonomy">
+    <ul class="taxonomy-list">
+    {{ range $categories }}
+      <li>
+        <a class="taxonomy-link" href="{{ .Page.RelPermalink }}">
+          <span class="taxonomy-name">{{ .Term }}</span>
+          <span class="taxonomy-count">{{ .Count }}</span>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+  </li>
+{{ end }}
