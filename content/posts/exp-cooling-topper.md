@@ -4,6 +4,9 @@ date: 2026-07-18
 categories: ["매트리스/토퍼"]
 tags: ["냉감토퍼", "쿨매트", "여름침구", "수면환경", "토퍼"]
 description: "여름밤 등에 땀 차서 깨는 게 지겨워 냉감 토퍼를 반년 써봤습니다. 처음 느낌부터 장마철에 드러난 아쉬운 점까지 솔직하게 정리했어요."
+cover:
+  image: "/images/posts/exp-cooling-topper.webp"
+  alt: "냉감 토퍼 반년 써본 후기, 여름밤 등에 땀 차는 게 정말 줄었을까"
 ---
 
 ## 사실은 저가형부터 한 번 실패했습니다
@@ -47,3 +50,5 @@ description: "여름밤 등에 땀 차서 깨는 게 지겨워 냉감 토퍼를 
 - 잠들기까지 뒤척이는 시간이 긴 분 (초반 냉감이 잠드는 걸 도와줘요)
 
 반대로, 에어컨 없이 냉감만으로 열대야를 버티고 싶은 분이라면 기대가 어긋날 수 있습니다. 그리고 습기 관리에 손이 가는 걸 아주 싫어하는 분께도 장마철엔 조금 번거로울 수 있어요. 저처럼 "완벽하진 않아도 등에 땀 덜 차면 그걸로 충분하다" 싶은 분께는 반년 써본 입장에서 꽤 괜찮은 선택이었습니다.
+
+<small>사진: <a href="https://unsplash.com/@vendedorescostalive?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Costa Live</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
