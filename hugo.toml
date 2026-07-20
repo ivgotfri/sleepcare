@@ -14,6 +14,7 @@ description = "매트리스, 베개, 이불 선택 기준부터 관리법까지 
 author = "SleepCare Editorial Team"
 tagline = "더 나은 잠을 위한 침구 가이드"
 favicon = "/favicon.ico"
+ga4MeasurementId = "G-FFLKXFJ277"
 avatar = "/images/avatar.png"
 image = "/images/site-cover.jpg"
 
