@@ -2,7 +2,7 @@
 title: "장마철 베개 눅눅함, 원인과 대처"
 date: 2026-07-20
 categories: ["베개"]
-tags: ["베개습기", "장마철베개관리", "베개곰팡이", "습도", "수면위생"]
+tags: ["침구관리", "베개"]
 description: "장마철에 베개가 눅눅해지는 이유를 습기와 땀의 원리로 풀고, 눅눅함을 줄이는 관리와 재질별 대응을 정리했습니다."
 cover:
   image: "/images/posts/edu-pillow-damp-rainy-season.webp"

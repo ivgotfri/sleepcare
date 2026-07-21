@@ -2,7 +2,7 @@
 title: "여름 이불이 눅눅한 이유, 충전재의 통기성과 흡습성부터 이해하기"
 date: 2026-07-18
 categories: ["이불/침구세트"]
-tags: ["여름이불", "충전재", "통기성", "흡습성", "침구"]
+tags: ["이불", "수면환경"]
 description: "장마철에 이불이 눅눅하게 느껴지는 건 충전재 특성 때문입니다. 통기성과 흡습성이 무엇인지, 소재별로 어떻게 다른지 원리부터 쉽게 풀어드립니다."
 cover:
   image: "/images/posts/edu-summer-duvet-fill-breathability.webp"

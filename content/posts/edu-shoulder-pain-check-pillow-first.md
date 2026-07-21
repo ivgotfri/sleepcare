@@ -2,7 +2,7 @@
 title: "어깨 결림 심할 때 베개부터 점검해야 하는 이유"
 date: 2026-07-21
 categories: ["베개"]
-tags: ["어깨결림", "베개높이", "경추정렬", "옆으로자기", "숄더베개"]
+tags: ["베개", "수면자세"]
 description: "아침마다 어깨가 뭉쳐 있다면 자세나 운동보다 먼저 베개를 의심해볼 만합니다. 어깨와 베개가 어떻게 연결되는지 원리부터 쉽게 풀어드려요."
 cover:
   image: "/images/posts/edu-shoulder-pain-check-pillow-first.webp"

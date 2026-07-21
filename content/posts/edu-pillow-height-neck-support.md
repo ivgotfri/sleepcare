@@ -2,7 +2,7 @@
 title: "베개 높이가 목에 하는 일, 경추 곡선부터 이해하기"
 date: 2026-07-18
 categories: ["베개"]
-tags: ["베개높이", "경추", "수면자세", "베개선택", "목통증"]
+tags: ["수면자세", "베개", "비교선택"]
 description: "베개 높이를 고를 때 왜 '몇 센티'가 아니라 목뼈 곡선이 기준이 되는지, 초보자도 이해할 수 있게 원리부터 풀어드립니다."
 cover:
   image: "/images/posts/edu-pillow-height-neck-support.webp"

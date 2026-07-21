@@ -2,7 +2,7 @@
 title: "베개에서 냄새 안 빠질 때 대처법"
 date: 2026-07-19
 categories: ["베개"]
-tags: ["베개 냄새", "베개 관리법", "쉰내", "베개 세탁", "습기"]
+tags: ["침구관리", "베개"]
 description: "빨아도 베개에서 쉰내가 안 빠질 때, 원인을 하나씩 짚어가며 해결하는 방법을 정리했습니다. 표면이 아니라 속통과 습기까지 접근하는 순서를 알려드립니다."
 cover:
   image: "/images/posts/howto-pillow-smell-removal.webp"

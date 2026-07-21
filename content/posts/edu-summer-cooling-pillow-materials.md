@@ -2,7 +2,7 @@
 title: "여름 베개, 냉감 소재가 다 좋은 건 아닌 이유"
 date: 2026-07-19
 categories: ["베개"]
-tags: ["여름 베개", "냉감 베개", "쿨링소재", "베개 선택", "통기성"]
+tags: ["수면환경", "베개", "비교선택"]
 description: "여름철 냉감 베개, 시원함만 보고 고르면 후회하기 쉽습니다. 냉감 소재의 원리와 종류별 한계를 짚어보고 나에게 맞는 여름 베개 고르는 기준을 정리했습니다."
 cover:
   image: "/images/posts/edu-summer-cooling-pillow-materials.webp"

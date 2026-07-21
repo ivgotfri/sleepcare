@@ -2,7 +2,7 @@
 title: "베개 꺼짐, 언제 교체해야 할까"
 date: 2026-07-20
 categories: ["베개"]
-tags: ["베개꺼짐", "베개교체시기", "베개관리", "수면자세", "목통증"]
+tags: ["수면자세", "베개", "침구관리"]
 description: "베개가 눌려 꺼졌을 때 아직 쓸 만한지, 바꿔야 할 때인지 스스로 진단하는 방법과 원인별 대처를 정리했습니다."
 cover:
   image: "/images/posts/howto-pillow-sagging-replacement.webp"

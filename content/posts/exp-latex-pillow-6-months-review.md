@@ -2,7 +2,7 @@
 title: "라텍스 베개 반년 써보고 남기는 솔직한 후기"
 date: 2026-07-21
 categories: ["베개"]
-tags: ["라텍스베개", "실사용후기", "베개교체", "통풍", "내구성"]
+tags: ["실사용후기", "베개", "토퍼"]
 description: "라텍스 베개를 6개월 넘게 매일 베고 자며 느낀 장점과 아쉬운 점을 솔직하게 정리했습니다. 무게, 통풍, 냄새, 내구성까지 실제 경험 위주로 적었어요."
 cover:
   image: "/images/posts/exp-latex-pillow-6-months-review.webp"

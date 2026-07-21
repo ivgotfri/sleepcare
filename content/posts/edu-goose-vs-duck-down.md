@@ -2,7 +2,7 @@
 title: "구스이불과 덕다운이불, 뭐가 다를까"
 date: 2026-07-21
 categories: ["이불/침구세트"]
-tags: ["구스이불", "덕다운", "다운이불", "필파워", "이불비교"]
+tags: ["이불", "비교선택"]
 description: "구스이불과 덕다운이불의 차이를 보온력, 무게, 냄새, 가격, 관리 관점에서 하나씩 비교하고, 어떤 사람에게 어느 쪽이 맞는지 선택 기준을 정리했습니다."
 cover:
   image: "/images/posts/edu-goose-vs-duck-down.webp"

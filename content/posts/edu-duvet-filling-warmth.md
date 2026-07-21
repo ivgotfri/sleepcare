@@ -2,7 +2,7 @@
 title: "이불 충전재 종류별 보온력 차이"
 date: 2026-07-20
 categories: ["이불/침구세트"]
-tags: ["이불충전재", "보온력", "구스다운", "극세사", "이불선택"]
+tags: ["이불", "비교선택"]
 description: "솜, 다운, 극세사, 라이오셀까지 이불 충전재별로 왜 따뜻함이 다른지 원리부터 쉽게 풀어 설명하고, 계절과 상황에 맞는 선택 기준을 정리했습니다."
 cover:
   image: "/images/posts/edu-duvet-filling-warmth.webp"

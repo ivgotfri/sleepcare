@@ -2,7 +2,7 @@
 title: "경추베개 vs 일반베개, 뭐가 나을까"
 date: 2026-07-19
 categories: ["베개"]
-tags: ["경추베개", "일반베개", "베개 비교", "베개 선택", "수면자세"]
+tags: ["비교선택", "베개", "수면자세"]
 description: "경추베개와 일반베개, 뭐가 더 나을까요. 둘의 구조 차이와 장단점, 그리고 어떤 사람에게 무엇이 맞는지 자는 자세별로 정리했습니다."
 cover:
   image: "/images/posts/edu-cervical-vs-regular-pillow.webp"

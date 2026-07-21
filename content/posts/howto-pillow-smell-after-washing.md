@@ -2,7 +2,7 @@
 title: "베개 세탁 후에도 냄새 날 때 대처법"
 date: 2026-07-21
 categories: ["베개"]
-tags: ["베개세탁", "베개냄새", "속통", "습도관리", "곰팡이"]
+tags: ["침구관리", "베개"]
 description: "분명히 빨았는데도 베개에서 쿰쿰한 냄새가 남는다면, 원인은 대부분 '덜 마름'과 '속통'에 있습니다. 원인별 진단과 실제 해결 순서를 정리했어요."
 cover:
   image: "/images/posts/howto-pillow-smell-after-washing.webp"

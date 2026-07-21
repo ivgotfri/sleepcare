@@ -2,7 +2,7 @@
 title: "기능성 베개, 가격만큼 효과 있을까"
 date: 2026-07-20
 categories: ["베개"]
-tags: ["기능성베개", "베개가격대", "경추베개", "메모리폼", "베개선택"]
+tags: ["베개", "토퍼", "비교선택"]
 description: "비싼 기능성 베개가 가격만큼 값을 하는지, 무엇이 가격을 올리고 무엇이 실제 수면에 영향을 주는지 Q&A로 풀었습니다."
 cover:
   image: "/images/posts/edu-functional-pillow-value.webp"
