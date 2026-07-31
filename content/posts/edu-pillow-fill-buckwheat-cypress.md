@@ -66,3 +66,9 @@ cover:
 - 소재별 통기·흡습 특성은 각 제조사가 공개하는 제품 스펙과 소재 설명을 비교해 일반적인 성질 위주로 정리했습니다.
 
 <small>사진: <a href="https://unsplash.com/@anniespratt?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Annie Spratt</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+- [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
+- [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)

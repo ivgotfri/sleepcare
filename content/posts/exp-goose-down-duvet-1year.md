@@ -56,3 +56,9 @@ cover:
 - [국가기술표준원](https://www.kats.go.kr) — 침구류 품질 및 안전 관련 기준 정보
 
 <small>사진: <a href="https://unsplash.com/@lahirur96?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Lahiru Welahetti</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)
+- [여름 이불 세탁 후 보관, 압축 전에 말리는 시간이 핵심입니다](/posts/exp-summer-duvet-drying-before-storage/)
+- [호텔 침구의 하얀색, 이유가 있는 선택입니다](/posts/exp-white-hotel-bedding/)

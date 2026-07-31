@@ -70,3 +70,9 @@ cover:
 - 저림·감각 이상 등 신경학적 증상이 동반될 경우의 판단은 의료 전문의의 진료 영역이며, 본문은 이를 대체하지 않습니다.
 
 <small>사진: <a href="https://unsplash.com/@mahdibafande?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mahdi Bafande</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [베개 높이, 수면 자세마다 다른 이유](/posts/edu-pillow-height-sleep-position/)
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)

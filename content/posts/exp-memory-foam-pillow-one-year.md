@@ -55,3 +55,9 @@ cover:
 - 나머지는 제가 1년 넘게 직접 베고 자면서 겪은 체감 경험을 정리한 것으로, 수치가 아닌 개인적 느낌 위주라는 점 감안해서 읽어주세요.
 
 <small>사진: <a href="https://unsplash.com/@fosterious?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sean Foster</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [라텍스 베개 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-pillow-6-months-review/)
+- [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
+- [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)

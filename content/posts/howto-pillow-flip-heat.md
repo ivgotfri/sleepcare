@@ -48,3 +48,9 @@ cover:
 베개를 뒤집는 건 몸이 보내는 신호입니다. "여기 열이 쌓였어요"라는. 그 신호를 무시하고 참기보다, 표면 한 겹 → 베갯잇 → 습도 → 예비 베개 순으로 하나씩 점검해 보세요. 대부분은 두세 번째 단계에서 새벽에 깨는 횟수가 눈에 띄게 줄어듭니다. 남은 열대야, 조금 더 서늘한 뺨으로 넘기시길 바랍니다.
 
 <small>사진: <a href="https://unsplash.com/@yana_hurska?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Yana Hurska</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 2개 겹쳐 베는 습관, 괜찮을까](/posts/howto-stacking-two-pillows-habit/)
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+- [베개 속통 소재별(메밀/편백) 특징 쉽게 설명](/posts/edu-pillow-fill-buckwheat-cypress/)

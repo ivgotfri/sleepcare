@@ -51,3 +51,9 @@ cover:
 정리하면, 베개 없이 자기는 '누구에게나 좋은 정답'이 아니라 '조건이 맞는 사람에게 맞는 선택지'입니다. 유행하는 한마디를 그대로 따르기보다, 내 자세와 체형, 매트리스를 먼저 읽어보세요. 목이 편해지는 높이는 결국 사람 수만큼 다릅니다.
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [옆으로 자는 사람에게 맞는 베개 조건](/posts/edu-side-sleeper-pillow-conditions/)
+- [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)

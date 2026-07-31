@@ -50,3 +50,9 @@ cover:
 결국 메모리폼이 더운 건 고장이 아니라 '성격'입니다. 그 성격을 알고 나면, 열대야에도 그 성격과 어떻게 타협할지가 보입니다. 오늘 밤은 커버 한 장, 제습기 한 번으로 시작해 보세요.
 
 <small>사진: <a href="https://unsplash.com/@dcbelanger?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Danielle-Claude Bélanger</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [매트리스 토퍼, 꼭 필요한 이유](/posts/edu-mattress-topper-why-needed/)
+- [매트리스 통기성, 여름보다 겨울에 더 중요한 이유](/posts/edu-mattress-breathability-winter/)
+- [하이브리드 매트리스, 스프링과 폼을 섞은 이유](/posts/edu-hybrid-mattress-spring-foam/)

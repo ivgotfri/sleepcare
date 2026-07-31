@@ -63,3 +63,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구 선택·소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@raaz033?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mohammad Aziz Hasan Raaz</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 높이가 안 맞을 때, 바꾸기 전에 조정해보는 법](/posts/howto-pillow-height-not-fitting/)
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [베개 꺼짐, 언제 교체해야 할까](/posts/howto-pillow-sagging-replacement/)

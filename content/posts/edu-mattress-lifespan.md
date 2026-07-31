@@ -52,3 +52,9 @@ cover:
 정리하면, 8~10년은 완전히 틀린 말은 아니지만 '평균'일 뿐입니다. 내 매트리스의 소재, 내 수면 습관, 내 방의 환경이라는 나머지 절반을 함께 봐야 진짜 교체 주기가 보입니다. 숫자를 외우기보다, 아침에 일어났을 때 내 몸이 하는 말에 귀를 기울여 보세요.
 
 <small>사진: <a href="https://unsplash.com/@kathyryn_tripp?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kathyryn Tripp</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
+- [장마철 매트리스 관리, 이렇게 달라졌어요](/posts/exp-monsoon-mattress-care/)
+- [매트리스 배송·설치 시 확인해야 할 것들](/posts/howto-mattress-delivery-setup-check/)

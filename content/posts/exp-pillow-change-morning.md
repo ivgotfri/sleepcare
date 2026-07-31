@@ -64,3 +64,9 @@ cover:
 베개 하나 바꿨을 뿐인데 아침이 달라진다는 게, 겪어보기 전엔 저도 반신반의했어요. 그런데 잠자리에 예민한 사람일수록 이 작은 차이가 크게 다가옵니다. 혹시 요즘 아침이 유독 무겁다면, 베개 상태부터 한번 눌러보시길요.
 
 <small>사진: <a href="https://unsplash.com/@sincerelymedia?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sincerely Media</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [라텍스 베개 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-pillow-6-months-review/)
+- [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)
+- [메모리폼 베개 1년 써보고 느낀 점](/posts/exp-memory-foam-pillow-one-year/)

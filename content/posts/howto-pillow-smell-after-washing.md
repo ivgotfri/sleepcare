@@ -77,3 +77,9 @@ cover:
 베개는 매일 밤 얼굴이 닿는 물건입니다. 소재별로 관리법이 다르니, 다음에 고를 때는 커버와 속통이 분리되는지, 세탁이 가능한 소재인지, 통풍이 잘 되는 구조인지 같은 '관리 편의성'을 미리 살펴보면 이런 고민을 훨씬 줄일 수 있습니다. 어깨나 목이 불편한 분이라면 냄새와 별개로 [베개 높이·경도가 몸에 맞는지]도 함께 점검해보시길 권해요.
 
 <small>사진: <a href="https://unsplash.com/@priscilladupreez?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개에서 냄새 안 빠질 때 대처법](/posts/howto-pillow-smell-removal/)
+- [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)
+- [냉감 베개커버, 여름 끝나면 세탁 후 이렇게 보관하세요](/posts/howto-cooling-pillowcase-storage/)

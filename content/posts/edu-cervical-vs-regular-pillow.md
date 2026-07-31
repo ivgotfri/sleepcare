@@ -79,3 +79,9 @@ cover:
 경추베개와 일반베개는 우열의 문제가 아니라 방식의 차이입니다. 정자세로 자고 목 정렬을 잡아주는 지지가 필요하다면 경추베개가, 자세가 다양하거나 높이를 세밀하게 조절하고 싶다면 일반베개가 더 잘 맞습니다. "남들이 좋다는 것"이 아니라 "내 자세에 맞는 것"을 기준으로 고르면 실패가 줄어듭니다.
 
 <small>사진: <a href="https://unsplash.com/@matthewryanstephenson?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Matthew Stephenson</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
+- [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)

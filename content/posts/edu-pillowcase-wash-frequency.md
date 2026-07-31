@@ -65,3 +65,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구 세탁·관리 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@enginakyurt?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">engin akyurt</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [냉감 베개커버, 여름 끝나면 세탁 후 이렇게 보관하세요](/posts/howto-cooling-pillowcase-storage/)
+- [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
+- [베개 꺼짐, 언제 교체해야 할까](/posts/howto-pillow-sagging-replacement/)

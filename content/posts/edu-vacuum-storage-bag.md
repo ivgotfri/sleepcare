@@ -58,3 +58,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 계절용품 보관 및 습기 관리 안내
 
 <small>사진: <a href="https://unsplash.com/@everdrop?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">everdrop GmbH</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 이불 세탁 후 보관, 압축 전에 말리는 시간이 핵심입니다](/posts/exp-summer-duvet-drying-before-storage/)
+- [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
+- [이불솜 세탁 주기, 왜 지켜야 할까](/posts/edu-comforter-wash-cycle/)

@@ -59,3 +59,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@rick_rothenberg?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Rick Rothenberg</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [본넬스프링과 포켓스프링, 구조 차이 이해하기](/posts/edu-bonnell-pocket-spring/)
+- [메모리폼 토퍼 8개월 써본 후기, 딱딱한 매트리스 위에 얹었더니](/posts/exp-memory-foam-topper/)
+- [매트리스 경도 숫자가 의미하는 것](/posts/edu-mattress-firmness-numbers/)

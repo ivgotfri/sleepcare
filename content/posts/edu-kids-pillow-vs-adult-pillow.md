@@ -55,3 +55,9 @@ cover:
 - 아이의 베개 사용 시기와 건강 관련 판단은 개별 상황에 따라 다르므로, 최종 결정은 소아과 전문의 상담을 권해요.
 
 <small>사진: <a href="https://unsplash.com/@jannerboy62?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Nick Fewings</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+- [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
+- [베개 수명 2년, 소재마다 다른 이유](/posts/edu-pillow-lifespan-by-material/)

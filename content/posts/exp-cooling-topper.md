@@ -52,3 +52,9 @@ cover:
 반대로, 에어컨 없이 냉감만으로 열대야를 버티고 싶은 분이라면 기대가 어긋날 수 있습니다. 그리고 습기 관리에 손이 가는 걸 아주 싫어하는 분께도 장마철엔 조금 번거로울 수 있어요. 저처럼 "완벽하진 않아도 등에 땀 덜 차면 그걸로 충분하다" 싶은 분께는 반년 써본 입장에서 꽤 괜찮은 선택이었습니다.
 
 <small>사진: <a href="https://unsplash.com/@vendedorescostalive?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Costa Live</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [메모리폼 토퍼 8개월 써본 후기, 딱딱한 매트리스 위에 얹었더니](/posts/exp-memory-foam-topper/)
+- [라텍스 토퍼 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-topper-six-months/)
+- [열대야에 메모리폼이 더 덥게 느껴지는 이유](/posts/edu-memory-foam-summer-heat/)

@@ -66,3 +66,9 @@ cover:
 - [국민건강영양조사](https://knhanes.kdca.go.kr) — 국민 건강·수면 관련 통계 확인처
 
 <small>사진: <a href="https://unsplash.com/@meris_21?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Meris</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [경추베개 vs 일반베개, 뭐가 나을까](/posts/edu-cervical-vs-regular-pillow/)
+- [베개 없이 자는 게 목에 좋다는 말, 절반만 맞습니다](/posts/howto-sleeping-without-pillow/)

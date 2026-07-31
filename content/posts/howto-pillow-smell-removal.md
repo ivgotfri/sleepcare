@@ -63,3 +63,9 @@ cover:
 냄새는 대개 "덜 말라서" 생깁니다. 표면만 좇지 말고 속통과 습기부터 잡으면, 대부분의 베개는 다시 뽀송하게 쓸 수 있습니다.
 
 <small>사진: <a href="https://unsplash.com/@seffen99?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sven Brandsma</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 세탁 후에도 냄새 날 때 대처법](/posts/howto-pillow-smell-after-washing/)
+- [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
+- [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)

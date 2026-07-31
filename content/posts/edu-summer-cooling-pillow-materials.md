@@ -71,3 +71,9 @@ cover:
 - 소재별 통기·방열 특성은 각 제조사의 공식 소재 설명(핀홀 구조, 젤 함침 여부 등)을 교차로 비교해 확인하는 것을 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@sagar_jain?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sagar Baid</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [냉감 베개커버, 여름 끝나면 세탁 후 이렇게 보관하세요](/posts/howto-cooling-pillowcase-storage/)
+- [베개 속통 소재별(메밀/편백) 특징 쉽게 설명](/posts/edu-pillow-fill-buckwheat-cypress/)
+- [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)

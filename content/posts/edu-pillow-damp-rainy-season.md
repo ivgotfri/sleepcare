@@ -66,3 +66,9 @@ cover:
 베개 위생과 관리 주기에 관해서는 수면·침구를 다루는 공신력 있는 기관과 소비자 안내 자료에서 "땀과 습기가 침구에 흡수되며 미생물·집먼지진드기 번식 조건이 된다"는 점을 공통적으로 설명합니다. 또한 제품별 세탁·건조 가능 여부는 제조사가 제공하는 공식 관리 라벨과 스펙 안내를 기준으로 삼는 것이 가장 정확합니다. 재질(다운·폴리·메모리폼·라텍스)마다 세탁 허용 범위가 다르므로, 일반적인 조언보다 내 제품의 공식 관리 표기를 우선 확인하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@tombalabomba?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Tom Van Soens</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개에서 냄새 안 빠질 때 대처법](/posts/howto-pillow-smell-removal/)
+- [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
+- [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)

@@ -61,3 +61,9 @@ cover:
 - 침구 소재의 세탁 표시·품질 표시 관련 소비자 정보: 한국소비자원
 
 <small>사진: <a href="https://unsplash.com/@son_of_media?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Dylan McLeod</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
+- [장마철 이불 눅눅함, 원인과 대처](/posts/howto-jangma-ibul-humidity/)
+- [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)

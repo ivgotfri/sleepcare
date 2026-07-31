@@ -57,3 +57,9 @@ cover:
 - 필파워·다운 비율의 정의는 각 제조사 공식 스펙 표기를 기준으로 정리했습니다.
 
 <small>사진: <a href="https://unsplash.com/@shirishsuwal?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Shirish Suwal</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불과 덕다운이불, 뭐가 다를까](/posts/edu-goose-vs-duck-down/)
+- [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
+- [이불 충전재 종류별 보온력 차이](/posts/edu-duvet-filling-warmth/)

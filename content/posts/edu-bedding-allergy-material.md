@@ -68,3 +68,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구류 기능성 표시 및 안전 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@priscilladupreez?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 이불이 눅눅한 이유, 충전재의 통기성과 흡습성부터 이해하기](/posts/edu-summer-duvet-fill-breathability/)
+- [아이 이불, 성인용과 다르게 골라야 하는 이유](/posts/edu-kids-blanket-selection/)
+- [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)

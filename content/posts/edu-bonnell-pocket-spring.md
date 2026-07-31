@@ -65,3 +65,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [라텍스와 메모리폼, 원리부터 이해하기](/posts/edu-latex-vs-memoryfoam-principle/)
+- [스프링 매트리스와 폼 매트리스, 뭐가 나을까](/posts/edu-spring-vs-foam-mattress/)
+- [체중별 매트리스 경도 매칭, 기준부터 잡기](/posts/howto-mattress-firmness-by-weight/)

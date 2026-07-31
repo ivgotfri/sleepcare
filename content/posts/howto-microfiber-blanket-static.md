@@ -53,3 +53,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구 관련 소비자 상담
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)
+- [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
+- [이불솜 세탁 주기, 왜 지켜야 할까](/posts/edu-comforter-wash-cycle/)

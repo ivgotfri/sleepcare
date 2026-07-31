@@ -51,3 +51,9 @@ cover:
 - [국가기술표준원](https://www.kats.go.kr) — 섬유 제품 소재·혼용률 표시 기준
 
 <small>사진: <a href="https://unsplash.com/@iantalmacs?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Ian Talmacs</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
+- [이불 텍스(실 밀도) 숫자, 높을수록 좋은 이유](/posts/edu-duvet-thread-count/)
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)

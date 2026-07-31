@@ -54,3 +54,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr)
 
 <small>사진: <a href="https://unsplash.com/@priscilladupreez?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)
+- [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)

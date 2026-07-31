@@ -57,3 +57,9 @@ A. 천연 여부보다 통기성, 흡습성, 세탁 내구성이 실질적인 �
 - [한국소비자원](https://www.kca.go.kr) — 아동용 섬유 제품 안전 정보
 
 <small>사진: <a href="https://unsplash.com/@stachmann?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Richard Stachmann</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 이불이 눅눅한 이유, 충전재의 통기성과 흡습성부터 이해하기](/posts/edu-summer-duvet-fill-breathability/)
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
+- [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)

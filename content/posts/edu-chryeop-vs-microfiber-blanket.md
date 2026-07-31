@@ -58,3 +58,9 @@ cover:
 - 소재별 품질 표시와 세탁 표시 관련 소비자 정보: 한국소비자원
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불과 덕다운이불, 뭐가 다를까](/posts/edu-goose-vs-duck-down/)
+- [이불커버 지퍼 vs 스냅, 뭐가 편할까](/posts/edu-duvet-cover-zipper-vs-snap/)
+- [이불 텍스(실 밀도) 숫자, 높을수록 좋은 이유](/posts/edu-duvet-thread-count/)

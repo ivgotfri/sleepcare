@@ -54,3 +54,9 @@ cover:
 결국 이불 무게 이야기는 '맞다/틀리다'로 자를 문제가 아니었습니다. 내 뒤척임 습관과 계절, 관리 여건이 맞물릴 때 비로소 장점이 살아나는 선택지더군요. 유행하는 한마디보다, 내 잠버릇을 먼저 떠올려 보시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)
+- [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)

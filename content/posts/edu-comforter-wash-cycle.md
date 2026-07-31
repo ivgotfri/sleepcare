@@ -55,3 +55,9 @@ cover:
 - [질병관리청](https://www.kdca.go.kr) — 실내 알레르기 유발 요인 및 생활 위생 관리
 
 <small>사진: <a href="https://unsplash.com/@enginakyurt?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">engin akyurt</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 이불 세탁 후 보관, 압축 전에 말리는 시간이 핵심입니다](/posts/exp-summer-duvet-drying-before-storage/)
+- [이불 세탁 후 뭉침 현상, 원인과 대처](/posts/howto-comforter-clumping-after-wash/)
+- [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)

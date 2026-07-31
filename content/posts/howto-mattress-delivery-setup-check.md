@@ -64,3 +64,9 @@ cover:
 - [국가기술표준원](https://www.kats.go.kr) — 생활용품 안전·품질 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@sleepline?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sleepline</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [새 매트리스인데 허리가 배길 때 확인해야 할 것들](/posts/howto-mattress-back-pain/)
+- [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
+- [매트리스 수명 8~10년이라는 말, 절반만 맞습니다](/posts/edu-mattress-lifespan/)

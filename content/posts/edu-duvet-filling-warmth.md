@@ -76,3 +76,9 @@ cover:
 (위 출처들은 성격을 안내한 것으로, 구매 전에는 실제 제품의 케어라벨과 제조사 공식 자료를 직접 확인하시길 권합니다.)
 
 <small>사진: <a href="https://unsplash.com/@josefin?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Josefin</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불과 덕다운이불 — 같은 듯 다른 결정적 차이](/posts/edu-goose-vs-duck-down-comforter/)
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)
+- [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)

@@ -70,3 +70,9 @@ cover:
 베개의 역할과 선택 기준에 관해서는 수면·자세를 다루는 공신력 있는 기관과 전문 자료에서 "누운 자세에서 목뼈의 중립 정렬을 유지하는 것이 중요하다"는 원칙을 공통적으로 제시합니다. 소재별 특성과 세탁·관리 허용 범위는 제조사가 제공하는 공식 스펙과 관리 표기를 기준으로 확인하는 것이 가장 정확합니다. 지속적인 목·어깨 통증은 베개만의 문제가 아닐 수 있으므로, 이 경우 전문가의 진단을 함께 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@judowoodo_?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Jude Infantini</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+- [베개 속통 소재별(메밀/편백) 특징 쉽게 설명](/posts/edu-pillow-fill-buckwheat-cypress/)
+- [라텍스 베개 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-pillow-6-months-review/)

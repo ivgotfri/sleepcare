@@ -53,3 +53,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구 관리·소비생활 정보
 
 <small>사진: <a href="https://unsplash.com/@b1snet?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Vincent Leyva</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [이불 세탁 후 뭉침 현상, 원인과 대처](/posts/howto-comforter-clumping-after-wash/)
+- [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)

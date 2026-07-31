@@ -53,3 +53,9 @@ cover:
 - [국민건강영양조사](https://knhanes.kdca.go.kr) — 생활환경 관련 통계 확인
 
 <small>사진: <a href="https://unsplash.com/@czxie21?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Charlies X</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 이불 눅눅함, 원인과 대처](/posts/howto-jangma-ibul-humidity/)
+- [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)
+- [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)

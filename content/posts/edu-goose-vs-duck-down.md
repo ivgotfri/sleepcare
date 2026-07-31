@@ -86,3 +86,9 @@ cover:
 (위 출처는 성격을 안내한 것이며, 실제 구매 전에는 제품의 스펙 표기와 제조사 공식 자료를 직접 확인하시길 바랍니다.)
 
 <small>사진: <a href="https://unsplash.com/@kateryna_shevchenko?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kateryna Shevchenko</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불과 덕다운이불 — 같은 듯 다른 결정적 차이](/posts/edu-goose-vs-duck-down-comforter/)
+- [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
+- [이불커버 지퍼 vs 스냅, 뭐가 편할까](/posts/edu-duvet-cover-zipper-vs-snap/)

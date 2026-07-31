@@ -51,3 +51,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 세탁·품질 관련 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@clicked?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Sari Crasnich</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [장마철 이불 눅눅함, 원인과 대처](/posts/howto-jangma-ibul-humidity/)
+- [이불솜 세탁 주기, 왜 지켜야 할까](/posts/edu-comforter-wash-cycle/)
+- [여름 이불 세탁 후 보관, 압축 전에 말리는 시간이 핵심입니다](/posts/exp-summer-duvet-drying-before-storage/)

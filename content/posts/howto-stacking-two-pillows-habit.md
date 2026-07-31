@@ -59,3 +59,9 @@ cover:
 - 베개 높이 조정 부분은 제가 여러 높이로 바꿔 자며 겪은 경험과 일반적으로 권장되는 기준을 정리한 것으로, 개인차가 있다는 점 감안해서 읽어주세요.
 
 <small>사진: <a href="https://unsplash.com/@raaz033?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mohammad Aziz Hasan Raaz</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [열대야에 베개 뒤집어 베는 습관, 이유가 있었습니다](/posts/howto-pillow-flip-heat/)
+- [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
+- [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)

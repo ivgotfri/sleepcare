@@ -55,3 +55,9 @@ cover:
 베개는 매일 얼굴을 대고 자는 물건입니다. 꺼진 채로 버티며 목을 혹사하기보다, 신호가 오면 점검하고 결정하는 습관이 결국 아침 컨디션을 지켜줍니다.
 
 <small>사진: <a href="https://unsplash.com/@photo_blob?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kin Shing Lai</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)
+- [베개 높이가 안 맞을 때 조정하는 법](/posts/howto-pillow-height-adjustment/)
+- [베개에서 냄새 안 빠질 때 대처법](/posts/howto-pillow-smell-removal/)

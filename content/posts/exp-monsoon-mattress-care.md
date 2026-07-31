@@ -55,3 +55,9 @@ cover:
 - [질병관리청](https://www.kdca.go.kr) — 실내 습도와 곰팡이 관련 건강 정보
 
 <small>사진: <a href="https://unsplash.com/@infinara?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Infinara</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
+- [매트리스 수명 8~10년이라는 말, 절반만 맞습니다](/posts/edu-mattress-lifespan/)
+- [메모리폼 매트리스 1년 써보고 느낀 점](/posts/exp-memory-foam-mattress-one-year/)

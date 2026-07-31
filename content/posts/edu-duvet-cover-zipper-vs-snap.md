@@ -54,3 +54,9 @@ cover:
 - [국가기술표준원](https://www.kats.go.kr) — 섬유 제품 품질·세탁 취급 표시 기준
 
 <small>사진: <a href="https://unsplash.com/@marek_ruczaj?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Marek Ruczaj</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
+- [구스이불과 덕다운이불, 뭐가 다를까](/posts/edu-goose-vs-duck-down/)
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)

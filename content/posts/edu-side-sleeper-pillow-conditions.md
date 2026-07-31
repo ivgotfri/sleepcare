@@ -52,3 +52,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 침구·생활용품 소비자 정보
 
 <small>사진: <a href="https://unsplash.com/@pducminhh?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">minh đô</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [베개 없이 자는 게 목에 좋다는 말, 절반만 맞습니다](/posts/howto-sleeping-without-pillow/)
+- [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+- [베개 속통 소재별(메밀/편백) 특징 쉽게 설명](/posts/edu-pillow-fill-buckwheat-cypress/)

@@ -57,3 +57,9 @@ cover:
 - [한국소비자원](https://www.kca.go.kr) — 섬유·침구류 세탁 표시 관련 정보
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
+- [늦여름 새벽 서늘함, 홑이불에서 차렵으로 넘어가는 시점](/posts/exp-chalyeot-transition/)
+- [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)

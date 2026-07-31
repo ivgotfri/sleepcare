@@ -66,3 +66,9 @@ cover:
 결국 정답 베개는 없고 자기 잠버릇과 우선순위에 맞는 베개가 있을 뿐입니다. 혹시 어깨나 목이 자주 불편하다면 소재 이전에 [높이와 자세 궁합]부터 점검해보시길 권하고, 냄새가 고민이라면 라텍스는 물세탁이 아니라 통풍 관리라는 점을 꼭 기억해두세요.
 
 <small>사진: <a href="https://unsplash.com/@processag?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Process AG</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [메모리폼 베개 1년 써보고 느낀 점](/posts/exp-memory-foam-pillow-one-year/)
+- [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
+- [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)

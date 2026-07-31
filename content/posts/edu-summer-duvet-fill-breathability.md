@@ -59,3 +59,9 @@ cover:
 - 수면 환경에서 온도·습도(침상 기후)가 수면의 질에 미치는 영향은 국내외 수면 관련 학회 및 공공 수면건강 자료에서 다루어지고 있으니, 구체적 수치가 필요하다면 해당 공신력 있는 기관 자료를 참고하시길 권합니다.
 
 <small>사진: <a href="https://unsplash.com/@slaapwijsheid?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Slaapwijsheid.nl</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [아이 이불, 성인용과 다르게 골라야 하는 이유](/posts/edu-kids-blanket-selection/)
+- [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
+- [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)

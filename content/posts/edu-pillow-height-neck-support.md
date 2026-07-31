@@ -66,3 +66,9 @@ cover:
 - 충전재별 복원 특성은 메모리폼·라텍스 등 각 소재 제조사가 공개하는 공식 제품 사양 설명을 근거로 했습니다.
 
 <small>사진: <a href="https://unsplash.com/@raaz033?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Mohammad Aziz Hasan Raaz</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+<!-- related-posts -->
+### 함께 읽으면 좋은 글
+- [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)
+- [경추베개 vs 일반베개, 뭐가 나을까](/posts/edu-cervical-vs-regular-pillow/)
+- [베개 높이가 안 맞을 때 조정하는 법](/posts/howto-pillow-height-adjustment/)
