@@ -74,3 +74,6 @@ cover:
 - [여름 이불이 눅눅한 이유, 충전재의 통기성과 흡습성부터 이해하기](/posts/edu-summer-duvet-fill-breathability/)
 - [아이 이불, 성인용과 다르게 골라야 하는 이유](/posts/edu-kids-blanket-selection/)
 - [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

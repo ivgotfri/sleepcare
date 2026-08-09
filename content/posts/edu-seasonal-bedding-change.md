@@ -53,3 +53,6 @@ description: "환절기가 오면 침구를 통째로 바꿔야 할 것 같지�
 - [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
 - [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)
 - [린넨 침구, 까슬함이 장점이 되는 계절](/posts/exp-linen-bedding-summer/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

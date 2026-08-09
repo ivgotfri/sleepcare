@@ -63,3 +63,6 @@ cover:
 - [침구 세트 바꾸고 달라진 잠자리](/posts/exp-bedding-set-change-review/)
 - [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)
 - [면 소재 침구, 실켓가공이 뭔지 알면 고르기 쉬워지는 이유](/posts/edu-cotton-mercerized-finish/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

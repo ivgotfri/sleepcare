@@ -61,3 +61,6 @@ cover:
 - [여름 이불 세탁 후 보관, 압축 전에 말리는 시간이 핵심입니다](/posts/exp-summer-duvet-drying-before-storage/)
 - [이불 세탁 후 뭉침 현상, 원인과 대처](/posts/howto-comforter-clumping-after-wash/)
 - [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

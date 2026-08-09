@@ -59,3 +59,6 @@ cover:
 - [토퍼가 자꾸 밀린다면 고정 밴드보다 바닥면부터](/posts/howto-topper-slipping-fix/)
 - [장마철 매트리스 관리, 이렇게 달라졌어요](/posts/exp-monsoon-mattress-care/)
 - [메모리폼 토퍼 8개월 써본 후기, 딱딱한 매트리스 위에 얹었더니](/posts/exp-memory-foam-topper/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

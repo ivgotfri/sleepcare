@@ -61,3 +61,6 @@ cover:
 - [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
 - [매트리스 수명 8~10년이라는 말, 절반만 맞습니다](/posts/edu-mattress-lifespan/)
 - [메모리폼 매트리스 1년 써보고 느낀 점](/posts/exp-memory-foam-mattress-one-year/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

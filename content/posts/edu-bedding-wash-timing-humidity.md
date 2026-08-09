@@ -59,3 +59,6 @@ cover:
 - [환절기 침구 교체, 한 번에 다 바꾸지 않아도 되는 이유](/posts/edu-seasonal-bedding-change/)
 - [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)
 - [이불솜 세탁 주기, 왜 지켜야 할까](/posts/edu-comforter-wash-cycle/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

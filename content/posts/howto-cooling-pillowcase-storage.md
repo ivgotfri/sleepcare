@@ -68,3 +68,6 @@ A. 대부분의 냉감 코팅면은 열에 약해 다림질을 권하지 않습�
 - [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
 
 <small>사진: <a href="https://unsplash.com/@frugalflyer?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Frugal Flyer</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

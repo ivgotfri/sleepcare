@@ -60,3 +60,6 @@ cover:
 - [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
 - [구스이불과 덕다운이불, 뭐가 다를까](/posts/edu-goose-vs-duck-down/)
 - [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

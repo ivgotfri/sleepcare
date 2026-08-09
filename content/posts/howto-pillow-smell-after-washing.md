@@ -83,3 +83,6 @@ cover:
 - [베개에서 냄새 안 빠질 때 대처법](/posts/howto-pillow-smell-removal/)
 - [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)
 - [냉감 베개커버, 여름 끝나면 세탁 후 이렇게 보관하세요](/posts/howto-cooling-pillowcase-storage/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

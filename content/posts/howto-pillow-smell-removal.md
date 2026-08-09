@@ -69,3 +69,6 @@ cover:
 - [베개 세탁 후에도 냄새 날 때 대처법](/posts/howto-pillow-smell-after-washing/)
 - [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
 - [베개 커버 세탁 주기, 왜 자주 해야 할까](/posts/edu-pillowcase-wash-frequency/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

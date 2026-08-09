@@ -53,3 +53,6 @@ description: "몇 년 쓰던 침구를 통째로 바꾸고 반년 넘게 지낸 
 - [침구 세트, 계절마다 바꿔야할지 기준으로 정리했습니다](/posts/howto-bedding-set-seasonal-change/)
 - [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
 - [구스 필파워 숫자, 높을수록 좋다는 오해](/posts/exp-goose-fillpower-myth/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

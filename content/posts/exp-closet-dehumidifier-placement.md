@@ -54,3 +54,6 @@ description: "장마철 이불장 눅눅함을 잡으려고 제습제를 이곳�
 - [구스이불 1년 써보고 느낀 점](/posts/exp-goose-down-duvet-1year/)
 - [이불솜 세탁 주기, 왜 지켜야 할까](/posts/edu-comforter-wash-cycle/)
 - [차렵이불과 극세사이불, 계절별로 뭐가 나을까](/posts/edu-chryeop-vs-microfiber-blanket/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

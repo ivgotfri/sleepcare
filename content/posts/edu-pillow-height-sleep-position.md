@@ -70,3 +70,6 @@ cover:
 - [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
 
 <small>사진: <a href="https://unsplash.com/@photo_blob?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Kin Shing Lai</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

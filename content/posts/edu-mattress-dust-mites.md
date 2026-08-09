@@ -67,3 +67,6 @@ cover:
 - [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
 
 <small>사진: <a href="https://unsplash.com/@wevibe?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">We-Vibe Toys</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

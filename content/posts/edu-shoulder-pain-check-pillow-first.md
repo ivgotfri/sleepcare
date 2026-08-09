@@ -76,3 +76,6 @@ cover:
 - [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
 - [베개 높이, 수면 자세마다 다른 이유](/posts/edu-pillow-height-sleep-position/)
 - [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

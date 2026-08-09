@@ -65,3 +65,6 @@ cover:
 - [열대야에 베개 뒤집어 베는 습관, 이유가 있었습니다](/posts/howto-pillow-flip-heat/)
 - [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
 - [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

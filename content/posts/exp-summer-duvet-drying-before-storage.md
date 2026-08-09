@@ -63,3 +63,6 @@ cover:
 - [이불 압축백 보관, 부피 줄이는 요령](/posts/edu-vacuum-storage-bag/)
 
 <small>사진: <a href="https://unsplash.com/@akulaqqe?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Lena Tolmacheva</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

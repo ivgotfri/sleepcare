@@ -65,3 +65,6 @@ cover:
 - [본넬스프링과 포켓스프링, 구조 차이 이해하기](/posts/edu-bonnell-pocket-spring/)
 - [메모리폼 토퍼 8개월 써본 후기, 딱딱한 매트리스 위에 얹었더니](/posts/exp-memory-foam-topper/)
 - [매트리스 경도 숫자가 의미하는 것](/posts/edu-mattress-firmness-numbers/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

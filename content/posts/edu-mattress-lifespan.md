@@ -58,3 +58,6 @@ cover:
 - [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
 - [장마철 매트리스 관리, 이렇게 달라졌어요](/posts/exp-monsoon-mattress-care/)
 - [매트리스 배송·설치 시 확인해야 할 것들](/posts/howto-mattress-delivery-setup-check/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

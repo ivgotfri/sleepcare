@@ -65,3 +65,6 @@ cover:
 - [열대야에 메모리폼이 더 덥게 느껴지는 이유](/posts/edu-memory-foam-summer-heat/)
 - [매트리스 통기성, 여름보다 겨울에 더 중요한 이유](/posts/edu-mattress-breathability-winter/)
 - [매트리스 토퍼, 꼭 필요한 이유](/posts/edu-mattress-topper-why-needed/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

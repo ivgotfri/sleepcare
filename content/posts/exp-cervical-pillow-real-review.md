@@ -72,3 +72,6 @@ cover:
 - [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
 - [경추베개 vs 일반베개, 뭐가 나을까](/posts/edu-cervical-vs-regular-pillow/)
 - [베개 없이 자는 게 목에 좋다는 말, 절반만 맞습니다](/posts/howto-sleeping-without-pillow/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

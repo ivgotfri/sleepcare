@@ -59,3 +59,6 @@ cover:
 - [이불 세탁 후 뭉침 현상, 원인과 대처](/posts/howto-comforter-clumping-after-wash/)
 - [이불에서 냄새 안 빠질 때 대처법](/posts/howto-blanket-odor-removal/)
 - [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

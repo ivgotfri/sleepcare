@@ -63,3 +63,6 @@ A. 천연 여부보다 통기성, 흡습성, 세탁 내구성이 실질적인 �
 - [여름 이불이 눅눅한 이유, 충전재의 통기성과 흡습성부터 이해하기](/posts/edu-summer-duvet-fill-breathability/)
 - [이불 알러지, 소재 때문일 수 있는 이유](/posts/edu-bedding-allergy-material/)
 - [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

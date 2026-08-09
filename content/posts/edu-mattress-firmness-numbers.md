@@ -65,3 +65,6 @@ cover:
 - [체중별 매트리스 경도 매칭, 기준부터 잡기](/posts/howto-mattress-firmness-by-weight/)
 - [라텍스와 메모리폼, 원리부터 이해하기](/posts/edu-latex-vs-memoryfoam-principle/)
 - [하이브리드 매트리스, 스프링과 폼을 섞은 이유](/posts/edu-hybrid-mattress-spring-foam/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

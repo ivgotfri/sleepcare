@@ -49,3 +49,6 @@ cover:
 - [본넬스프링과 포켓스프링, 구조 차이 이해하기](/posts/edu-bonnell-pocket-spring/)
 - [열대야에 메모리폼이 더 덥게 느껴지는 이유](/posts/edu-memory-foam-summer-heat/)
 - [늦여름 매트리스 열기, 자기 전 10분 환기로 달라집니다](/posts/howto-mattress-heat-night-ventilation/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

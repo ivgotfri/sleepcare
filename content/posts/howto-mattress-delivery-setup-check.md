@@ -70,3 +70,6 @@ cover:
 - [새 매트리스인데 허리가 배길 때 확인해야 할 것들](/posts/howto-mattress-back-pain/)
 - [매트리스 회전, 왜 주기적으로 해줘야 할까](/posts/edu-mattress-rotation/)
 - [매트리스 수명 8~10년이라는 말, 절반만 맞습니다](/posts/edu-mattress-lifespan/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

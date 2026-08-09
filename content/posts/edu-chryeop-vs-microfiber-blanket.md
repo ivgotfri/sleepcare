@@ -64,3 +64,6 @@ cover:
 - [구스이불과 덕다운이불, 뭐가 다를까](/posts/edu-goose-vs-duck-down/)
 - [이불커버 지퍼 vs 스냅, 뭐가 편할까](/posts/edu-duvet-cover-zipper-vs-snap/)
 - [이불 텍스(실 밀도) 숫자, 높을수록 좋은 이유](/posts/edu-duvet-thread-count/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

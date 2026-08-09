@@ -61,3 +61,6 @@ cover:
 - [라텍스 베개 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-pillow-6-months-review/)
 - [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
 - [경추베개, 정말 목에 좋을까](/posts/exp-cervical-pillow-real-review/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

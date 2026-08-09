@@ -68,3 +68,6 @@ cover:
 - [매트리스 토퍼, 꼭 필요한 이유](/posts/edu-mattress-topper-why-needed/)
 
 <small>사진: <a href="https://unsplash.com/@alainpictures?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Alain Gehri</a> on <a href="https://unsplash.com/?utm_source=inforcore-hugo&utm_medium=referral" target="_blank" rel="noopener">Unsplash</a></small>
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

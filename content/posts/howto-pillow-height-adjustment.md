@@ -69,3 +69,6 @@ cover:
 - [베개 높이가 안 맞을 때, 바꾸기 전에 조정해보는 법](/posts/howto-pillow-height-not-fitting/)
 - [베개 높이가 목에 하는 일, 경추 곡선부터 이해하기](/posts/edu-pillow-height-neck-support/)
 - [베개 꺼짐, 언제 교체해야 할까](/posts/howto-pillow-sagging-replacement/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

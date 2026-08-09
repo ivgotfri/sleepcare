@@ -62,3 +62,6 @@ cover:
 - [베개 폭과 어깨 너비, 뒤척임까지 계산해야 하는 이유](/posts/edu-pillow-width-shoulder/)
 - [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)
 - [베개 높이, 수면 자세마다 다른 이유](/posts/edu-pillow-height-sleep-position/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

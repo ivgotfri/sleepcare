@@ -76,3 +76,6 @@ cover:
 - [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
 - [베개 속통 소재별(메밀/편백) 특징 쉽게 설명](/posts/edu-pillow-fill-buckwheat-cypress/)
 - [라텍스 베개 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-pillow-6-months-review/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

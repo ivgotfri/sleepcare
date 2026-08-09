@@ -61,3 +61,6 @@ cover:
 - [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
 - [메모리폼 베개와 라텍스 베개, 뭐가 다를까](/posts/edu-memory-foam-vs-latex-pillow/)
 - [베개 수명 2년, 소재마다 다른 이유](/posts/edu-pillow-lifespan-by-material/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

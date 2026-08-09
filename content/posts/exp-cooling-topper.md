@@ -58,3 +58,6 @@ cover:
 - [메모리폼 토퍼 8개월 써본 후기, 딱딱한 매트리스 위에 얹었더니](/posts/exp-memory-foam-topper/)
 - [라텍스 토퍼 반년 써보고 남기는 솔직한 후기](/posts/exp-latex-topper-six-months/)
 - [열대야에 메모리폼이 더 덥게 느껴지는 이유](/posts/edu-memory-foam-summer-heat/)
+
+이 주제가 처음이라면 [매트리스와 토퍼, 어디서부터 읽으면 좋을까 — 카테고리 길잡이](https://sleepcare.inforcore.net/posts/hub-mattress-topper/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

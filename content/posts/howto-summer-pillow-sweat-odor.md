@@ -66,3 +66,6 @@ cover:
 - [베개에서 냄새 안 빠질 때 대처법](/posts/howto-pillow-smell-removal/)
 - [베개 세탁 후에도 냄새 날 때 대처법](/posts/howto-pillow-smell-after-washing/)
 - [베개 속통과 커버 사이, 속커버가 필요한 이유](/posts/exp-pillow-inner-cover/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

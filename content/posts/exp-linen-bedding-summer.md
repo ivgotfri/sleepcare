@@ -51,3 +51,6 @@ cover:
 - [환절기 침구 교체, 한 번에 다 바꾸지 않아도 되는 이유](/posts/edu-seasonal-bedding-change/)
 - [차렵이불 반년 써보고 남기는 솔직한 후기](/posts/exp-charyeop-duvet-half-year/)
 - [침구 세트 바꾸고 달라진 잠자리](/posts/exp-bedding-set-change-review/)
+
+이 주제가 처음이라면 [이불·침구세트, 고르고 관리하는 흐름을 한자리에 모았어요](https://sleepcare.inforcore.net/posts/hub-bedding-set/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

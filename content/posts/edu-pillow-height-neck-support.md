@@ -72,3 +72,6 @@ cover:
 - [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)
 - [경추베개 vs 일반베개, 뭐가 나을까](/posts/edu-cervical-vs-regular-pillow/)
 - [베개 높이가 안 맞을 때 조정하는 법](/posts/howto-pillow-height-adjustment/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

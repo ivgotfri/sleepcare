@@ -71,3 +71,6 @@ cover:
 - [냉감 베개커버, 여름 끝나면 세탁 후 이렇게 보관하세요](/posts/howto-cooling-pillowcase-storage/)
 - [호텔 베개가 유독 편한 이유, 집에서 재현하는 법](/posts/howto-hotel-pillow-at-home/)
 - [베개 꺼짐, 언제 교체해야 할까](/posts/howto-pillow-sagging-replacement/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->

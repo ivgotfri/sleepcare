@@ -57,3 +57,6 @@ description: "베개는 높이만 보고 고르기 쉽지만, 폭과 어깨 너�
 - [어깨 결림 심할 때 베개부터 점검해야 하는 이유](/posts/edu-shoulder-pain-check-pillow-first/)
 - [여름 베개, 냉감 소재가 다 좋은 건 아닌 이유](/posts/edu-summer-cooling-pillow-materials/)
 - [엎드려 자는 습관과 베개, 낮을수록 나은 이유](/posts/howto-stomach-sleeper-low-pillow/)
+
+이 주제가 처음이라면 [베개 하나 바꾸는데 이렇게 고민할 게 많습니다](https://sleepcare.inforcore.net/posts/hub-pillow/)에서 전체 글 흐름을 한눈에 볼 수 있습니다.
+<!-- hub-link -->
