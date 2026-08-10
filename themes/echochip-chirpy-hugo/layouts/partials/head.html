@@ -9,6 +9,7 @@
   {{ if not $image }}{{ with .Params.image }}{{ $image = . }}{{ else }}{{ with site.Params.image }}{{ $image = . }}{{ end }}{{ end }}{{ end }}
   {{ if $image }}{{ $image = ($image | absURL) }}{{ end }}
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="msvalidate.01" content="0C7FB6B7DF4AF2A2E622D756511E9D58">
   <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
